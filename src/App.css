@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  position: relative;
+}
+.header{
+  width: 100%;
+  background-color: aliceblue;
+  font-size: 30px;
+}
+.wip{
+  width: 20%;
+  height: 500px;
+  padding-left: 0px;
+}
+.task-header{
+  width: 100%;
+  background-color: aliceblue;
+  font-size: 30px;
+}
+.droppable{
+  width: 20%;
+  height: 500px;
+  right: 0px;
+  position: fixed;
+  top:30px;
+}
+.draggable{
+  height: 100px;
+}
